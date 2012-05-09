@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidTao2Activity!</string>
+    <string name="app_name">おみくじアプリ！！</string>
+    <string name="today">今日</string>
+    <string name="yesterday">昨日？</string>
+    <string name="tommorw">明日</string>
+    <string name="lets_omikuji">おみくじを引くんだ</string>
+    <string name="omikuji_key">omikuji_key</string>
+
+</resources>
