@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidTao2Activity!</string>
+    <string name="app_name">AndroidTao2</string>
+    <string name="button_message">今日の運勢</string>
+    <string name="top_message">おみくじを引くんだ</string>
+    <string name="tommorow_button">明日の運勢</string>
+    <string name="nweek_button">来週の運勢</string>
+    <string name="second_message">ふたつめのActivityだよ</string>
+
+</resources>
